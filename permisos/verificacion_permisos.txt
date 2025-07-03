@@ -1,0 +1,17 @@
+========== VERIFICACIÓN DE PERMISOS -- muniz ==========
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x 2 vagrant vagrant 4096 Jul  3 00:46 .
+drwxr-x--- 7 vagrant vagrant 4096 Jul  3 00:44 ..
+-rw------- 1 vagrant vagrant    0 Jul  3 00:44 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Jul  3 00:46 publico.txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Jul  3 01:04 .
+drwxrwxrwt 12 root root          4096 Jul  3 01:04 ..
+Información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
+
