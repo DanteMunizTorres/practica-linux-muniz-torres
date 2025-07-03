@@ -1,26 +1,26 @@
-========== VERIFICACIÓN DE ARCHIVOS -- muniz ==========
+========== VERIFICACIÓN DE ARCHIVOS -- torres ==========
 Estructura de directorios creada:
-/mnt/almacenamiento_muniz
-/mnt/almacenamiento_muniz/proyectos
-/mnt/almacenamiento_muniz/proyectos/archivados
-/mnt/almacenamiento_muniz/proyectos/activos
-/mnt/almacenamiento_muniz/temporal
-/mnt/almacenamiento_muniz/lost+found
-/mnt/almacenamiento_muniz/respaldos
+/mnt/almacenamiento_torres
+/mnt/almacenamiento_torres/respaldos
+/mnt/almacenamiento_torres/lost+found
+/mnt/almacenamiento_torres/proyectos
+/mnt/almacenamiento_torres/proyectos/archivados
+/mnt/almacenamiento_torres/proyectos/activos
+/mnt/almacenamiento_torres/temporal
 Archivos en cada directorio:
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_08.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_07.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_06.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_05.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_02.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_01.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_04.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_03.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_05.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_02.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_01.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_04.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_03.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/respaldos/documento_10.txt
--rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 23:23 /mnt/almacenamiento_torres/temporal/documento_01.txt
 
