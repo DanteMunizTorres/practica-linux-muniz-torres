@@ -1,0 +1,26 @@
+========== VERIFICACIÓN CONTENEDORES -- muniz ==========
+Contenedores en ejecución:
+CONTAINER ID   IMAGE                  COMMAND      CREATED          STATUS                    PORTS                                                                                                                               NAMES
+33c7168d3b25   pihole/pihole:latest   "start.sh"   41 minutes ago   Up 41 minutes (healthy)   0.0.0.0:53->53/tcp, :::53->53/tcp, 67/udp, 0.0.0.0:80->80/tcp, 0.0.0.0:53->53/udp, :::80->80/tcp, :::53->53/udp, 123/udp, 443/tcp   pihole-practica
+
+Estado de docker-compose:
+     Name         Command       State                                                                   Ports                                                             
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+pihole-practica   start.sh   Up (healthy)   123/udp, 443/tcp, 0.0.0.0:53->53/tcp,:::53->53/tcp, 0.0.0.0:53->53/udp,:::53->53/udp, 67/udp, 0.0.0.0:80->80/tcp,:::80->80/tcp
+
+Prueba de conectividad al servicio:
+HTTP/1.1 403 Forbidden
+Cache-Control: no-cache, no-store, must-revalidate, private, max-age=0
+Expires: 0
+Pragma: no-cache
+X-DNS-Prefetch-Control: off
+Content-Security-Policy: default-src 'self' 'unsafe-inline';
+X-Frame-Options: DENY
+X-XSS-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Type: text/html; charset=utf-8
+Date: Thu, 03 Jul 2025 03:20:20 GMT
+Connection: close
+
+

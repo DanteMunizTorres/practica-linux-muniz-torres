@@ -1,0 +1,19 @@
+version: '3.7'
+services:
+  pihole:
+    container_name: pihole-practica
+    image: pihole/pihole:latest
+    ports:
+      - "53:53/tcp"
+      - "53:53/udp"
+      - "80:80/tcp"
+    environment:
+      TZ: 'America/Argentina/Buenos_Aires'
+      WEBPASSWORD: 'practica123'
+      FTLCONF_LOCAL_IPV4: '192.168.56.101'
+    volumes:
+      - './configuracion-pihole:/etc/pihole'
+      - './configuracion-dnsmasq.d:/etc/dnsmasq.d'
+    restart: unless-stopped
+    cap_add:
+      - NET_ADMIN
