@@ -16,10 +16,9 @@ Las tecnologías clave utilizadas en este proyecto son:
 
 El proyecto se organiza de la siguiente manera, con cada carpeta conteniendo los entregables de los ejercicios correspondientes:
 
-
+**```text**
 practica-linux-muniz-torres/
 ├── README.md
-├── Vagrantfile
 ├── crear_reporte_docker.sh
 ├── git_prueba
 ├── permisos/
@@ -34,7 +33,7 @@ practica-linux-muniz-torres/
 └── contenedores/
     ├── docker-compose.yml
     └── verificacion_contenedores.txt
-
+**```**
 
 ---
 
