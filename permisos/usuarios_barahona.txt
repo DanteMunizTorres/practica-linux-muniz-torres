@@ -1,0 +1,12 @@
+========== INFORMACIÓN DE USUARIOS Y GRUPOS -- BARAHONA ==========
+Usuario actual:
+vagrant
+Grupos del usuario:
+vagrant docker
+ID del usuario:
+uid=1000(vagrant) gid=1000(vagrant) groups=1000(vagrant),121(docker)
+Usuarios del sistema:
+estudiante_uno:x:1002:1002::/home/estudiante_uno:/bin/sh
+estudiante_dos:x:1003:1003::/home/estudiante_dos:/bin/sh
+estudiante_tres:x:1004:1004::/home/estudiante_tres:/bin/sh
+
