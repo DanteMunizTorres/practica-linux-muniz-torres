@@ -26,3 +26,17 @@ Archivos en directorio colaborativo:
 Información del grupo equipotrabajo:
 equipotrabajo:x:1005:estudiante_uno,estudiante_dos,estudiante_tres
 
+
+========== VERIFICACIÓN DE PERMISOS -- torres ==========
+Archivos en mi directorio personal:
+total 8
+drwxrwxr-x 2 vagrant vagrant 4096 Jul  3 23:07 .
+drwxr-x--- 7 vagrant vagrant 4096 Jul  3 23:06 ..
+-rw------- 1 vagrant vagrant    0 Jul  3 23:06 privado.txt
+-rw-r--r-- 1 vagrant vagrant    0 Jul  3 23:07 publico.txt
+Archivos en directorio colaborativo:
+total 8
+drwxrwx---  2 root equipotrabajo 4096 Jul  3 23:07 .
+drwxrwxrwt 12 root root          4096 Jul  3 23:07 ..
+Información del grupo equipotrabajo:
+equipotrabajo:x:1005:estudiante1,estudiante2,estudiante3,vagrant
