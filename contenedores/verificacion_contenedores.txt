@@ -1,4 +1,4 @@
-========== VERIFICACIÓN CONTENEDORES -- muniz ==========
+========== VERIFICACIÓN CONTENEDORES ==========
 Contenedores en ejecución:
 CONTAINER ID   IMAGE                  COMMAND      CREATED          STATUS                    PORTS                                                                                                                               NAMES
 33c7168d3b25   pihole/pihole:latest   "start.sh"   41 minutes ago   Up 41 minutes (healthy)   0.0.0.0:53->53/tcp, :::53->53/tcp, 67/udp, 0.0.0.0:80->80/tcp, 0.0.0.0:53->53/udp, :::80->80/tcp, :::53->53/udp, 123/udp, 443/tcp   pihole-practica

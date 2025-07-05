@@ -24,3 +24,29 @@ Archivos en cada directorio:
 -rw-rw-r-- 1 vagrant vagrant 27 Jul  4 01:41 /mnt/almacenamiento_barahona/respaldos/documento_10.txt
 -rw-rw-r-- 1 vagrant vagrant 27 Jul  4 01:41 /mnt/almacenamiento_barahona/respaldos/documento_09.txt
 
+========== VERIFICACIÓN DE ARCHIVOS -- muniz ==========
+Estructura de directorios creada:
+/mnt/almacenamiento_muniz
+/mnt/almacenamiento_muniz/proyectos
+/mnt/almacenamiento_muniz/proyectos/archivados
+/mnt/almacenamiento_muniz/proyectos/activos
+/mnt/almacenamiento_muniz/temporal
+/mnt/almacenamiento_muniz/lost+found
+/mnt/almacenamiento_muniz/respaldos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  3 01:56 /mnt/almacenamiento_muniz/respaldos/documento_09.txt
+
